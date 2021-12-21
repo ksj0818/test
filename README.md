@@ -6,4 +6,4 @@
 
 - header.html, nav.html, footer.html 각 파일 생성
 
-- body안에 <div data-include-path="header.html"></div> 태그 삽입
+- body안에 `<div data-include-path="header.html"></div>` 태그 삽입
